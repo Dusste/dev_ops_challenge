@@ -1,0 +1,11 @@
+{
+  "name": "dev_ops_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dusan Stevanovic",
+  "license": "ISC"
+}
